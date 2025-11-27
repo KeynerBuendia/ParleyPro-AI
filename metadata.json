@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ParlayPro AI",
+  "description": "An AI-powered sports analytics MVP that analyzes match statistics to recommend high-probability parlays using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
